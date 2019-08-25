@@ -47,8 +47,6 @@ I have maded much better than this mostly coustamized, If you need any specific 
 
 </br>
 
-</br>
-
 👨‍💻 𝕃𝕖𝕥𝕙𝕒𝕝 𝔸𝕕𝕧𝕚𝕔𝕖::::
 
 </br>
