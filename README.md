@@ -1,2 +1,2 @@
 # little-finger
-🤪 Let's mine your info 🕵️‍♂️
+🕵️‍♂️ Let's mine your info 🤪
