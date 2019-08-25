@@ -48,3 +48,19 @@ I have maded much better than this mostly coustamized, If you need any specific 
 </br>
 
 🤘 𝔅𝔦𝔫𝔡 𝔦𝔱 𝔴𝔦𝔱𝔥 𝔰𝔬𝔪𝔢 𝔬𝔱𝔥𝔢𝔯 𝔞𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫, 𝔈𝔵𝔞𝔪𝔭𝔩𝔢 𝔬𝔣 𝔟𝔦𝔫𝔡𝔦𝔫𝔤 𝔴𝔦𝔱𝔥 𝔰𝔠𝔯𝔢𝔢𝔫-𝔤𝔯𝔞𝔟𝔟𝔢𝔯 𝔦𝔰 𝔭𝔯𝔬𝔳𝔦𝔡𝔢𝔡.
+
+</br>
+
+----------------------------------------------------------------------------------------------------
+
+</br>
+
+✍️ Make Sure:::
+
+</br>
+
+- [x] Email that has to be logged in by scipt is allowed to be accessed from less trusted devices. Click [Me](https://www.google.com/settings/security/lesssecureapps) to enable.
+
+</br>
+
+- [x] You have filled to_email, from_email, from_email_pass
