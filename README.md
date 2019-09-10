@@ -1,3 +1,7 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/little-finger.svg)](http://hits.dwyl.io/D-E-F-E-A-T/little-finger)
+
+</br>
+
 # little-finger
 🕵️‍♂️ 𝑳𝒆𝒕'𝒔 𝒎𝒊𝒏𝒆 𝒚𝒐𝒖𝒓 𝒊𝒏𝒇𝒐 🤪
 
